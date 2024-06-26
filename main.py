@@ -8,8 +8,11 @@ def main():
     Make your code here
     """
     
-    if number < 50
+    if number < 50:
         range = 1
+        
+    elif number >= 50: and < 100:
+        
     
     
     
