@@ -11,7 +11,8 @@ def main():
     if number < 50:
         range = 1
         
-    elif number >= 50: and < 100:
+    elif number >= 50 and number < 100:
+        range = 2
         
     
     
