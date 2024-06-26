@@ -14,6 +14,9 @@ def main():
     elif number >= 50 and number < 100:
         range = 2
         
+    else:
+        range = 3
+        
     
     
     
