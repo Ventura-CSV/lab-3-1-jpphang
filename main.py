@@ -7,7 +7,12 @@ def main():
     """
     Make your code here
     """
-
+    
+    if number < 50
+        range = 1
+    
+    
+    
     print(f'Range is {range}')
     ########################################
     # Do not delete the return statement
